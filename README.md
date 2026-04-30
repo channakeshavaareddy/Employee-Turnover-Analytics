@@ -35,5 +35,50 @@ The aim of this project is to analyze employee data and develop a machine learni
 ### Insights & Recommendations 
 - Derived key insights and suggested retention strategies for HR decision-making.
 
+## Tools, Software, and Libraries Used
+
+**Programming Language:**
+- Python  
+
+**Development Environment:**
+- Jupyter Notebook  
+
+**Libraries:**
+- NumPy – numerical computations  
+- Pandas – data manipulation and analysis  
+- Matplotlib – data visualization  
+- Seaborn – statistical data visualization  
+- Scikit-learn – machine learning models and evaluation  
+- Imbalanced-learn – handling class imbalance using SMOTE  
+
+**Machine Learning Algorithms Used:**
+- Logistic Regression  
+- Random Forest Classifier  
+- Gradient Boosting Classifier  
+- K-Means Clustering  
+
+**Version Control:**
+- Git & GitHub – project hosting and version control  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
