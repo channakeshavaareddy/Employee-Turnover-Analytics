@@ -38,10 +38,7 @@ The aim of this project is to analyze employee data and develop a machine learni
 ## Tools, Software, and Libraries Used
 
 **Programming Language:**
-- Python  
-
-**Development Environment:**
-- Jupyter Notebook  
+- Python 
 
 **Libraries:**
 - NumPy – numerical computations  
