@@ -57,9 +57,9 @@ The aim of this project is to analyze employee data and develop a machine learni
 **Version Control:**
 - Git & GitHub – project hosting and version control  
 
-
-
-
+##  Key Visualizations:
+### Correlation Heatmap
+ ![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115424.png)
 
 
 
