@@ -12,28 +12,28 @@ The aim of this project is to analyze employee data and develop a machine learni
 - Checked for missing values, duplicates, and handled categorical variables using encoding techniques.
 
 ### Exploratory Data Analysis (EDA) 
-Analyzed patterns and relationships between features and employee attrition using visualizations.
+- Analyzed patterns and relationships between features and employee attrition using visualizations.
 
 ### Feature Selection & Transformation 
-Selected relevant features and converted categorical variables into numerical format.
+- Selected relevant features and converted categorical variables into numerical format.
 
 ### Clustering Analysis 
-Applied K-Means clustering to group employees based on satisfaction and evaluation scores.
+- Applied K-Means clustering to group employees based on satisfaction and evaluation scores.
 
 ### Handling Class Imbalance 
-Used SMOTE technique to balance the dataset for better model performance.
+- Used SMOTE technique to balance the dataset for better model performance.
 
 ### Model Building 
-Trained multiple machine learning models including Logistic Regression, Random Forest, and Gradient Boosting.
+- Trained multiple machine learning models including Logistic Regression, Random Forest, and Gradient Boosting.
 
 ### Model Evaluation 
-Evaluated models using accuracy, precision, recall, F1-score, and ROC-AUC metrics.
+- Evaluated models using accuracy, precision, recall, F1-score, and ROC-AUC metrics.
 
 ### Risk Segmentation 
-Classified employees into risk zones (Safe, Low, Medium, High) based on predicted probabilities.
+- Classified employees into risk zones (Safe, Low, Medium, High) based on predicted probabilities.
 
 ### Insights & Recommendations 
-Derived key insights and suggested retention strategies for HR decision-making.
+- Derived key insights and suggested retention strategies for HR decision-making.
 
 
 
