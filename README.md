@@ -6,10 +6,10 @@ The aim of this project is to analyze employee data and develop a machine learni
 
 ## Steps Involved in the Project:
 ### Data Collection 
-Loaded HR dataset containing employee attributes such as satisfaction level, working hours, salary, and attrition status.
+- Loaded HR dataset containing employee attributes such as satisfaction level, working hours, salary, and attrition status.
 
 ### Data Cleaning & Preprocessing 
-Checked for missing values, duplicates, and handled categorical variables using encoding techniques.
+- Checked for missing values, duplicates, and handled categorical variables using encoding techniques.
 
 ### Exploratory Data Analysis (EDA) 
 Analyzed patterns and relationships between features and employee attrition using visualizations.
