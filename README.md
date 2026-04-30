@@ -61,12 +61,45 @@ The aim of this project is to analyze employee data and develop a machine learni
 ### Correlation Heatmap
  ![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115424.png)
 
+###  Department vs Attrition and Salary vs Attrition
+ ![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115612.png)
+ ![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115700.png)
 
+### Average monthly hours distribution
+ ![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115839.png)
 
+### Satisfaction level distribution
+  ![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115848.png)
+  
+### last evaluation distribution
+![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115900.png)
 
+### K-Means clustering scatter plot
+![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115924.png)
 
+### ROC Curve (Logistic Regression)
+![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115953.png)
 
+### ROC Curve (Random Forest)
+![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20120008.png)
 
+### Gradient Boosting Model Performance
+![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20120023.png)
+
+### Employee Risk Zones
+![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20120037.png)
+
+##  Conclusion
+
+This project focused on analyzing employee data to understand the factors that lead to employee attrition and to build a predictive machine learning model for the same. Using exploratory data analysis, it was observed that key factors such as employee satisfaction level, workload (average monthly hours), number of projects, salary level, and time spent in the company have a strong influence on whether an employee is likely to leave.
+
+To build an effective prediction system, multiple machine learning models were implemented, including Logistic Regression, Random Forest, and Gradient Boosting. Since the dataset had an imbalance between employees who stayed and those who left, the SMOTE technique was applied to improve model learning and performance on the minority class.
+
+After evaluating all models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC, the Random Forest model performed the best and provided the most reliable predictions. It was able to effectively capture complex relationships between employee attributes and attrition behavior.
+
+In addition to prediction, clustering was used to group employees who left into different behavioral segments, helping to better understand different types of attrition patterns. Finally, employees were categorized into risk zones (Safe, Low Risk, Medium Risk, and High Risk) based on predicted probabilities, which can help HR teams take proactive and targeted retention actions.
+
+Overall, this project demonstrates how machine learning can be applied in real-world HR analytics to support data-driven decision-making, reduce employee turnover, and improve organizational retention strategies.
 
 
 
